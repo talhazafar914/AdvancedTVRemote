@@ -3,4 +3,4 @@
 # Example for Google AdMob:
 # google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
 
-google.com, pub-REPLACE_WITH_YOUR_PUBLISHER_ID, DIRECT, f08c47fec0942fa0
+google.com, pub-1893133983060591, DIRECT, f08c47fec0942fa0
